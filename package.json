@@ -1,0 +1,12 @@
+{
+  "name": "node-ci-demo",
+  "version": "1.0.0",
+  "description": "Basic Node.js CI demo using GitHub Actions",
+  "license": "ISC",
+  "author": "Bhawya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
